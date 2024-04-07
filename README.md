@@ -1,4 +1,4 @@
-# Markerless Velociraptor Experiment
+# Markerless Velociraptor Prototype using EasyAR
 
 ## Description
 This experiment involves a markerless augmented reality application designed specifically for mobile devices. Upon pressing the "Start Tracking" button, users will be able to see a Velociraptor overlaid onto their surroundings through their device's camera. The Velociraptor will appear to be present in the real world environment, enhancing the user's experience with augmented reality.
